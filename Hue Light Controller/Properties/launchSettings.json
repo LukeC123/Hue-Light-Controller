@@ -2,7 +2,8 @@
   "profiles": {
     "Hue Light Controller": {
       "commandName": "Project",
-      "commandLineArgs": "on"
+      "commandLineArgs": "on",
+      "remoteDebugEnabled": false
     }
   }
 }

@@ -30,7 +30,7 @@ namespace Hue_Light_Controller
             {
                 double percentage = double.Parse(args[1]) / 100;
                 double oldPercentage = getBrightnessPercentage();
-
+                
                 double newPercentage = percentage + oldPercentage;
 
                 if (newPercentage > 1.0)

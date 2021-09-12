@@ -1,9 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Hue_Light_Controller</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject />
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
