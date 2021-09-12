@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hue Light Controller": {
+      "commandName": "Project",
+      "commandLineArgs": "on"
+    }
+  }
+}
